@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(255, 175, 28);
+  }
+
+.navbar .navbar-link {
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+    line-height: 64px;
+}
+
+.navbar > ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.navbar .navbar-option {
+    width: 24.8%;
+
+    float: left;
+
+    text-align: center;
+
+    background-color: rgb(0, 0, 0);
+
+    border: 1px green solid; 
+    height: 100%;
+
+    margin-bottom: auto;
+}
+
+.navbar {
+    height: 64px;
+
+}
+
+.navbar > ul {
+
+    height: 100%; 
+}
+
+.imagenes {
+   
+}
+
+.titulos {
+    margin-top: 70px;
+    font-style: italic;
+    text-align: center;
+}
+
+.contenido-primario {
+    background-color: white;
+    text-align: center;
+}
+
+.contenido-secundario {
+    background-color: white;
+    text-align: center;
+}
+
+.pie-pagina {
+    background-color: black;
+    color: white;
+}
+
+.contenido-personajes {
+    text-align: center;
+}
+
+.contenido-anime {
+    text-align: center;
+}
